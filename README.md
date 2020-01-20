@@ -5,7 +5,7 @@ por meio do algoritmo hill-climbing.
 **_Descrição:_**
 
 Com as variáveis x e y pertencentes ao intervalo entre 0 e 20. Os vizinhos de determinado
-estado (x, y) são (x+-0;01;y+-0;01):
+estado (x, y) são (x+-0.01 ; y+-0.01):
 
 **_Implementação:_**
 
@@ -30,4 +30,4 @@ algoritmo.
 
 Inúmeros testes foram realizados a fim de analisar a solução, sendo notório em tal a
 ’dependência’ do resultado quanto à natureza randômica do ponto inicial. Encontrando portanto,
-algumas vezes, apenas máximos locais e não o máximo global de f(x,y) (Máximo de aproximadamente 36.08):
+algumas vezes, apenas máximos locais e não o máximo global de f(x,y) (Máximo de aproximadamente 36.08).
