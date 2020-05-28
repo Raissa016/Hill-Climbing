@@ -31,3 +31,12 @@ algoritmo.
 Inúmeros testes foram realizados a fim de analisar a solução, sendo notório em tal a
 ’dependência’ do resultado quanto à natureza randômica do ponto inicial. Encontrando portanto,
 algumas vezes, apenas máximos locais e não o máximo global de f(x,y) (Máximo de aproximadamente 36.08).
+
+
+
+# Identidade Visual
+> Simples e intuitiva. 
+
+**_Descrição:_**
+
+A identidade visual do projeto foi pensada e elaborada seguindo os princípios do Material Design e Minimalismo. A expressão conhecida como "less is more" (menos é mais), sintetiza bem a essência do conceito empregado no projeto, uma tendência que aplica a maior simplicidade possível para passar a mensagem desejada. Assim o design do SemioSoft apresenta mais espaços em branco, uma tipografia simples e menos rebuscada, cores vibrantes e formas intuitivas. A ferramenta utilizada para elaboração do material visual fora o Adobe Illustrator. Portanto, almejamos que o usuário possa aprender de forma rápida e prática, com imagens, tabelas e interface de fácil interação.
