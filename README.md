@@ -33,10 +33,3 @@ Inúmeros testes foram realizados a fim de analisar a solução, sendo notório 
 algumas vezes, apenas máximos locais e não o máximo global de f(x,y) (Máximo de aproximadamente 36.08).
 
 
-
-# Identidade Visual
-> Simples e intuitiva. 
-
-**_Descrição:_**
-
-A identidade visual do projeto foi pensada e elaborada seguindo os princípios do Material Design e Minimalismo. A expressão conhecida como "_less is more_" (menos é mais), sintetiza bem a essência do conceito empregado no projeto, uma tendência que aplica a maior simplicidade possível para passar a mensagem desejada. Assim o design do **SemioSoft** apresenta mais espaços em branco, uma tipografia simples e menos rebuscada, cores vibrantes e formas intuitivas. A ferramenta utilizada para elaboração do material visual fora o Adobe Illustrator, e sua aprovação foi baseada em elementos UX, englobando principalmente três pontos: a facilidade de uso, a sensação de poder e a satisfação de realizar cada tarefa. Com isso, almejamos que o usuário possa aprender de forma rápida e prática, com imagens, tabelas e interface de fácil interação.
